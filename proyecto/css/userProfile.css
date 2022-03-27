@@ -1,0 +1,173 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+body {
+  background-color: #16161a !important;
+  margin: 30px;
+  width: 100vh;
+}
+.profile{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px;
+    position: absolute;
+    width: 360px;
+    height: 62px;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    margin-top: 40px;
+    margin-left: 20px;
+    font-size: 15px;
+    position: static;
+    width: 328px;
+    height: 30px;
+    left: 16px;
+    top: 16px;
+    font-family: 'Nunito';
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 30px;
+    color: #FFFFFE;
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+    margin: 0px 20px;
+}
+.userContenedor{
+/* Frame 36 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 181px;
+height: 136px;
+left: 89px;
+top: 86px;
+
+
+
+
+    text-align: center;
+  margin-top: 50px;
+  margin-left: 30px;  width: 90%;
+  color: white !important;
+  font-family: "Inter" !important;
+}
+.contenido {
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 30px;  width: 90%;
+  color: white !important;
+  font-family: "Inter" !important;
+}
+
+#foto {
+    text-align: center;
+    border-radius: 50%;
+    position: static;
+    width: 100px;
+    height: 100px;
+    left: 50.5px;
+    top: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 40px 0px;
+}
+
+#nombre {
+  color: white !important;
+  font-family: "Inter" !important;
+  font-size: 20px;
+}
+
+#correo {
+  color: white !important;
+  font-family: "Inter" !important;
+  font-style: italic;
+  font-size: 18px;
+}
+a{
+    font-weight: 600;
+    line-height: 24px;
+    color: #EF4565 !important;
+    margin-block: inherit;
+}
+
+
+
+.footer{
+    justify-content: center;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px 70px;
+    position: absolute;
+    height: 69px;
+    left: 0px;
+    bottom: 0px;
+    background: #232E35;
+    flex: none;
+    order: 3;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 10px 0px;
+    padding: 15px;
+    display: flex;
+} 
+   
+
+#imgHome{
+margin-right: 70px !important;  
+position: static;
+width: 24px;
+height: 24px;
+left: 7.5px;
+top: 0px;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 2px 0px;
+
+}
+
+#imgEstad{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+position: static;
+width: 75px;
+height: 45px;
+left: 145px;
+top: 12px;
+border-radius: 80px;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 80px;
+width: 22px;
+height: 20px;
+left: 1px;
+top: 2px;
+}
+
+#imgUser{
+position: static;
+width: 24px;
+height: 24px;
+left: 5px;
+top: 0px;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 2px 0px;
+}

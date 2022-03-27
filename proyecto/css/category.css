@@ -1,0 +1,177 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+body {
+  background-color: #16161a !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.titulo {
+  color: white !important;
+  font-family: "Inter" !important;
+  font-size: 15px;
+  padding-top: 20px;
+  position: static;
+  padding: 40px;
+  text-align: center;
+  letter-spacing: 0.0015em;
+}
+.category{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+width: 360px;
+height: 525px;
+left: 0px;
+top: 115px;
+
+}
+.Html{
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    position: static;
+    left: 125px;
+    top: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+.category1{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+#imgCss{
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    position: static;
+    width: 96px;
+    height: 128px;
+    left: 0px;
+    top: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 24px;
+}
+
+#imgJs{
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    position: static;
+    width: 96px;
+    height: 128px;
+    left: 0px;
+    top: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 24px;
+}
+#imgFig{
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    position: static;
+    width: 96px;
+    height: 128px;
+    left: 0px;
+    top: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 24px;
+}
+#imgUx{
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    position: static;
+    width: 96px;
+    height: 128px;
+    left: 0px;
+    top: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 24px;
+}
+
+
+.footer{
+        padding: 15px;
+        display: flex;
+        justify-content: center;
+        margin: 20px;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 5px 70px;
+        position: static;
+        height: 69px;
+        left: 0px;
+        bottom: 0px;
+        background: #232E35;
+        flex: none;
+        order: 3;
+        align-self: stretch;
+        flex-grow: 0;
+        margin: 10px 0px;
+}
+
+#imgHome{
+margin-right: 70px !important;  
+position: static;
+width: 24px;
+height: 24px;
+left: 7.5px;
+top: 0px;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 2px 0px;
+ 
+}
+
+#imgEstad{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    position: static;
+    width: 75px;
+    height: 45px;
+    left: 145px;
+    top: 12px;
+    border-radius: 80px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 80px;
+    width: 22px;
+    height: 20px;
+    left: 1px;
+    top: 2px;
+}
+
+#imgUser{
+position: static;
+width: 24px;
+height: 24px;
+left: 5px;
+top: 0px;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 2px 0px;
+}
